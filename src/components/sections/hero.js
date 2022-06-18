@@ -60,14 +60,13 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Hira Shahid</h2>;
-  const three = <h3 className="big-heading">MERN Stack Developer</h3>;
+  const three = <h3 className="big-heading">Software Engineer</h3>;
   const four = (
     <>
       <p>
       A Tech Enthusiast with keen interest in Cloud Computing, Artificial Intelligence and DevOps. 
-      Have great understanding of
-      DataBases such as MySQL and MongoDb, Firebase Cloud and Real-time database, Networking,
-      Software Development Life Cycle(SDLC) and Digital Marketing.
+      Have great understanding of Nestjs, Nodejs, TypeScript, JavaScript, React, ReactNative, 
+      MySQL, MongoDb, Firebase Cloud and Real-time database
       </p>
     </>
   );
