@@ -1,13 +1,17 @@
 ---
-date: '2020-12-03'
-title: 'Recruitment Head'
-company: 'WMF'
-location: ''
-range: 'May - December 2020'
-url: 'https://www.facebook.com/WMF.PAK/'
+date: '2022-06-21'
+title: 'Software Engineer'
+company: 'Systems Limited'
+location: 'Lahore, Pakistan'
+range: 'Feb - June 2022'
+url: 'https://www.systemsltd.com/'
 ---
 
-- We Move Forward is a community which was initiated for Women by Students of University of Lahore.
-- Recruited and Led the HR team of this society
-- Proposed many ideas for the tech sessions.
+During my Internship tenure, I have worked on Real Time Mobile App development, following are the details:
+- Hands-on experience on NestJS and MongoDB.
+- Authentication and Validation using JWT (NodeJS).
+- Integration of In-App Notification Module.
+- Designed backend Schema under supervision of lead.
+- Implemented Multilingual (English and Chinese Languages) using i18 package.
+- Prepared business rules document to have a consolidated document for the phase 1 and phase2.
 
