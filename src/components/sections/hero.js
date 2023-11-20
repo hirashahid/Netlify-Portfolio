@@ -63,10 +63,10 @@ const Hero = () => {
   const three = <h3 className="big-heading">Software Engineer</h3>;
   const four = (
     <>
-      <p>
-      A Tech Enthusiast with keen interest in Cloud Computing, Artificial Intelligence and DevOps. 
-      Have great understanding of Nestjs, Nodejs, TypeScript, JavaScript, React, ReactNative, 
-      MySQL, MongoDb, Firebase Cloud and Real-time database
+    <p>  
+A Tech Enthusiast with keen interest in exploring innovative solutions, staying abreast of cutting-edge technologies, and contributing to the ever-evolving landscape of the digital world.
+      Have great understanding of
+      JavaScript, NodeJS, NestJS, TypeScript, DataBases such as MySQL, PostgreSQL and MongoDb.
       </p>
     </>
   );
