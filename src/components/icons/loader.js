@@ -5,7 +5,8 @@ const IconLoader = () => (
     <title>Loader Logo</title>
     <g>
       <g id="H" transform="translate(11.000000, 5.000000)">
-      <text x="26" y="57" fill="currentColor" fontSize="50px" fontFamily="Consolas, serif">
+        {/* Adjusted x and y attributes for centering */}
+        <text x="20" y="50" fill="currentColor" fontSize="50px" fontFamily="Consolas, serif">
           H
         </text>
       </g>
@@ -15,11 +16,11 @@ const IconLoader = () => (
         strokeLinecap="round"
         strokeLinejoin="round"
         d="M 50, 5
-                  L 11, 27
-                  L 11, 72
-                  L 50, 95
-                  L 89, 73
-                  L 89, 28 z"
+           L 11, 27
+           L 11, 72
+           L 50, 95
+           L 89, 73
+           L 89, 28 z"
       />
     </g>
   </svg>
