@@ -6,7 +6,7 @@ const IconLoader = () => (
     <g>
       <g id="H" transform="translate(11.000000, 5.000000)">
         {/* Adjusted x and y attributes for centering */}
-        <text x="20" y="50" fill="currentColor" fontSize="50px" fontFamily="Consolas, serif">
+        <text x="50" y="150" fill="currentColor" fontSize="50px" fontFamily="Consolas, serif">
           H
         </text>
       </g>
