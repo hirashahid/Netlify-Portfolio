@@ -126,7 +126,20 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'Node.js', 'React', 'Express', 'MySQL', 'MongoDB', 'Firebase', 'Flutter', 'Dart', 'React Native', 'Wordpress', 'Android', ' HTML',  'CSS'];
+  const skills = [
+    'JavaScript',
+    'NodeJS',
+    'NestJS',
+    'Express',
+    'React',
+    'TypeScript',
+    'MySQL',
+    'MongoDB',
+    'PostgreSQL',
+    'React Native',
+    'HTML',
+    'CSS',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,22 +149,18 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Hira Shahid and I enjoy creating things that live on the internet. My
-              interest is in web backend development using Nodejs Framework. I am eager to learn cloud computing as well.
+              Hello! My name is Hira Shahid, and I enjoy creating things that live on the internet.
             </p>
-
             <p>
-              I have done my graduation in Computer Sciences from <a href = "http://www.kinnaird.edu.pk/">Kinnaird College for Women, Lahore.</a> After my graduation, I have explored many domains such as Hybrid Mobile Apps Development using React Native and
-              Flutter. But soon I have realised that I am more into logical development rather than designing, so I had given 
-              a chance to the backend and have built projects in Nodejs framework such as User Registration using MongoDB 
-              and Movie Listing App using MYSQL.
+              A passionate web developer with a strong foundation in the MERN stack. Over the past
+              year, I've honed my skills in MongoDB, Express.js, React, and Node.js, creating
+              dynamic and responsive web applications.
             </p>
-
             <p>
-              Apart from that, I have written some tech blogs as well to help out young developers. 
-              wrote about freelancing and different tech domains.
+              I thrive on turning innovative ideas into functional and user-friendly solutions. My
+              journey in web development has equipped me with problem-solving abilities and a keen
+              eye for detail.
             </p>
-
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
 
