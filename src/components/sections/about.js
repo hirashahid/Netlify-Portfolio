@@ -130,13 +130,13 @@ const About = () => {
     'JavaScript',
     'NodeJS',
     'NestJS',
+    'NextJS',
     'Express',
     'React',
     'TypeScript',
     'MySQL',
     'MongoDB',
     'PostgreSQL',
-    'React Native',
     'HTML',
     'CSS',
   ];
@@ -152,8 +152,8 @@ const About = () => {
               Hello! My name is Hira Shahid, and I enjoy creating things that live on the internet.
             </p>
             <p>
-              A passionate web developer with a strong foundation in the MERN stack. Over the past
-              year, I've honed my skills in MongoDB, Express.js, React, and Node.js, creating
+              A passionate web developer with a strong foundation in the MERN stack. Over the past 3
+              years, I've honed my skills in MongoDB, Express.js, React, and Node.js, creating
               dynamic and responsive web applications.
             </p>
             <p>

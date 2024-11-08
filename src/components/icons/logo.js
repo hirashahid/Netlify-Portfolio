@@ -6,7 +6,7 @@ const IconLogo = () => (
     <g transform="translate(-8.000000, -2.000000)">
       <g transform="translate(11.000000, 5.000000)">
         {/* Adjusted x and y attributes for centering */}
-        <text x="17" y="63" fill="currentColor" fontSize="50px" fontFamily="Consolas, serif">
+        <text x="21" y="60" fill="currentColor" fontSize="50px" fontFamily="Consolas, serif">
           H
         </text>
         <polygon

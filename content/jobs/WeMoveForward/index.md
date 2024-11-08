@@ -1,6 +1,6 @@
 ---
 date: '2022-06-21'
-title: 'Software Engineer'
+title: 'Software Engineer Intern'
 company: 'Systems Limited'
 location: 'Lahore, Pakistan'
 range: 'Feb - June 2022'
