@@ -1,2 +1,2 @@
-[build]
-  node_version = "18.17.0"
+[build.environment]
+NODE_VERSION = "18.17.0"
